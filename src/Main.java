@@ -95,6 +95,7 @@ public class Main extends JFrame {
 				    return;
 				} else {
 					
+
 					try {
 						Class.forName("com.mysql.cj.jdbc.Driver");
 						con = DriverManager.getConnection("jdbc:mysql://localhost/airlinedb","root","");
