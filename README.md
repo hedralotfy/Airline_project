@@ -87,16 +87,9 @@ In phpMyAdmin: go to Import tab, choose the file, and execute.
 In terminal:
 
 ```
-mysql -u root -p airline < db/airline.sql
+mysql -u root -p airline < db/airlinedb.sql
 ```
 
-Update database connection info in the code (DBConnection.java or equivalent):
-
-```
-String url = "jdbc:mysql://localhost/airlinedb";
-String user = "root";
-String password = "";
-```
 
 ---
 
