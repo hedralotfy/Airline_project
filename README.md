@@ -141,6 +141,9 @@ Debugging database connectivity and queries.
 **📬 Contact**
 
 Hedra Lotfy
+
 📧 Hedralotfy20@gmail.com
+
 🔗 LinkedIn
+
 🔗 GitHub
