@@ -144,6 +144,6 @@ Hedra Lotfy
 
 📧 Hedralotfy20@gmail.com
 
-🔗 LinkedIn
+🔗 ![LinkedIn](https://www.linkedin.com/in/hedra-lotfy-762609285/)
 
-🔗 GitHub
+🔗 ![GitHub](https://github.com/hedralotfy)
