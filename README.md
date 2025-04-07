@@ -28,24 +28,31 @@ The system supports flight management, customer details, ticket booking, and mor
 ## 🖼️ Screenshots
 
 **Login Page**
+
 ![Login page](https://github.com/user-attachments/assets/85a53204-aa65-47ae-a105-f10fa867230c)
 
 **Admin Page - Adding Flights**
+
 ![Admin page - Add flights](https://github.com/user-attachments/assets/f1e1a3c6-674e-4bc7-bc1c-a313992ca0d6)
 
 **Admin Page - Searching Customers**
+
 ![Admin page - Search Customers](https://github.com/user-attachments/assets/ef5512fd-d6a4-4e50-931b-50e6eac87bd8)
 
 **Admin Page - Tickets**
+
 ![Admin page - Tickets](https://github.com/user-attachments/assets/0cfc7c97-7210-4213-b779-f1bcf8897f9b)
 
 **AddCustomer**
+
 ![AddCustomer](https://github.com/user-attachments/assets/0a7bc787-7f4c-4e60-9fec-79a282deedb1)
 
 **MainPage**
+
 ![MainPage](https://github.com/user-attachments/assets/25968e11-f2a7-4fef-bd6b-3750c44b765c)
 
 **TicketBooking**
+
 ![TicketBooking](https://github.com/user-attachments/assets/8b6fc8fc-8255-405e-a8ba-c3c8a36bda36)
 
 ---
