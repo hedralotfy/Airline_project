@@ -73,6 +73,7 @@ The system supports flight management, customer details, ticket booking, and mor
 
 ---
 **📂 Database Setup**
+
 Make sure MySQL Server is running.
 
 Open phpMyAdmin or MySQL Workbench.
@@ -100,6 +101,7 @@ String password = "";
 ---
 
 **📚 Required External Libraries**
+
 This project uses external libraries to enhance the UI and date selection features.
 
 📦 Required JAR Files (included in /lib folder):
@@ -126,11 +128,13 @@ Select both jcalendar-1.4.jar and jgoodies-common-1.2.0.jar from the /lib direct
 ---
 
 **🤔 Why This Project?**
+
 This project was created to explore desktop app development in Java, integrate a relational database, and understand real-world business workflows like flight booking and customer handling.
 
 ---
 
 **🧠 What I Learned**
+
 Working with GUI design and layout managers in Java Swing.
 
 Performing CRUD operations using JDBC.
@@ -142,6 +146,7 @@ Debugging database connectivity and queries.
 ---
 
 **📬 Contact**
+
 Hedra Lotfy
 📧 Hedralotfy20@gmail.com
 🔗 LinkedIn
